@@ -2,7 +2,7 @@
 
 
 ### src
-* turtorial with refarence 1.
+* turtorial with reference 1.
 
 ### turtorial
 * mnist
