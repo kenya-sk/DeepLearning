@@ -1,7 +1,15 @@
 # DeepLearning
 
+
+### src
+* turtorial with refarence 1.
+
+### turtorial
+* mnist
+   misit tutorial using TensorFlow.
+
 ### Reference
 ```
-ゼロから作る DeepLearning / オライリー・ジャパン発行
+1. ゼロから作る DeepLearning / オライリー・ジャパン発行
 code: https://github.com/oreilly-japan/deep-learning-from-scratch
 ```
