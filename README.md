@@ -6,7 +6,8 @@
 
 ### turtorial
 * mnist
-   misit tutorial using TensorFlow.
+
+   mnist tutorial using TensorFlow.
 
 ### Reference
 ```
