@@ -5,9 +5,13 @@
 * turtorial with reference 1.
 
 ### turtorial
-* mnist
+* mnist.ipynb
 
-   mnist tutorial using TensorFlow.
+   mnist tutorial using TensorFlow (single layer).
+
+* deep_mnist.ipynb
+
+	mnist tutorial using TensorFlow (multi layer).
 
 ### Reference
 ```
