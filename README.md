@@ -1,4 +1,4 @@
-# DeepLearning
+# TutorialOfDeepLearning
 
 
 ### src
